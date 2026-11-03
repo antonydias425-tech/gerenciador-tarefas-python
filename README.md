@@ -1,6 +1,6 @@
-# NOME DO PROJETO
+# GERENCIADOR DE TAREFAS
 
-Sistema desenvolvido na disciplina de Desenvolvimento de Front-end. Ele faz O QUE O SISTEMA FAZ.
+Sistema desenvolvido na disciplina de Desenvolvimento de Front-end. Ele faz uma lista com os seus afazeres diarios.
 
 ## Tecnologias
 - Python
