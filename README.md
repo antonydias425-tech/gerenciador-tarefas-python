@@ -10,8 +10,5 @@ Sistema desenvolvido na disciplina de Desenvolvimento de Front-end. Ele faz uma 
 2. Abra na sua IDE (ou terminal)
 3. Execute o arquivo principal
 
-## Demonstração
-Prints do sistema funcionando ![print](demonstracao.png).
-
 ## Licença
 MIT. Veja o arquivo LICENSE.
